@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-// New file created through the feature branch : form 
-=======
-// New file created through the feature branch : button
->>>>>>> main
+ 
+// New file created through the feature branch : form (feature branch)
+// New file created through the feature branch : button (Main branch)
+
